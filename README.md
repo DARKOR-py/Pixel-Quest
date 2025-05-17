@@ -49,7 +49,7 @@ python PixelQuest/main.py
 ## 🎮 Controls
 
 - ⬅️➡️ Arrow keys: Move left/right  
-- ⬆️ or Spacebar: Jump
+- Spacebar: Jump
 
 ---
 
@@ -59,11 +59,6 @@ python PixelQuest/main.py
 
 ---
 
-## 📄 License
-
-MIT License
-
----
 
 ## 🙌 Credits
 
