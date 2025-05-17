@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm files
+.idea/
+
+# VSCode (si jamais)
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Env files
+.env
+
+# Python cache
+*.pyo
+*.pyd
